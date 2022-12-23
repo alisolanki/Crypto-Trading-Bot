@@ -2,7 +2,6 @@
 
 // Imports
 const ethers = require("ethers");
-require("dotenv").config();
 const secrets = require("./secrets.json");
 const fetch = require("node-fetch");
 
