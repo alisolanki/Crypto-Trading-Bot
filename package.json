@@ -9,11 +9,8 @@
   "author": "Ali Solanki",
   "license": "ISC",
   "dependencies": {
-    "@moralisweb3/common-evm-utils": "^2.10.2",
     "alchemy-sdk": "^2.2.4",
-    "dotenv": "^16.0.3",
     "ethers": "^5.7.2",
-    "moralis": "^2.10.2",
     "node-fetch": "^2.6.7"
   }
 }
